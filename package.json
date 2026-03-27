@@ -1,0 +1,14 @@
+{
+  "name": "frame-feedback-collector",
+  "version": "0.1.0",
+  "description": "Collect user feedback and feature requests via Frames",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
